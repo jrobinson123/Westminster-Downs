@@ -6,6 +6,6 @@ The races are fast paced, often close, and have frequent lead changes. You can e
 For the future I want to allow the user to place different kinds of bets on the horses and get paid out accordingly. 
 
 
-![horse racing image](https://drive.google.com/file/d/1T0pGJXwIW-rmJBJrMUuVRbyHgyrjqsw5/preview)
+![horse racing image](./images/horseRaceShot.png)
 
 This is the image
