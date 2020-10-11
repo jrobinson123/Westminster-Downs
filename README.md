@@ -4,4 +4,4 @@ A virtual horse racing game. This is my second version of the game because I wan
 The races are fast paced, often close, and have frequent lead changes. You can either follow the horses themselves or a dynamic scoreboard. The horse who wins the race will be put onto the top layer of the screen, visible and proud. The game features animated horses and sound effects such as a crowd and inaudible announcer. 
 
 For the future I want to allow the user to place different kinds of bets on the horses and get paid out accordingly. 
-![](https://https://drive.google.com/file/d/1T0pGJXwIW-rmJBJrMUuVRbyHgyrjqsw5/view?usp=sharing)
+![horse racing image](https://https://drive.google.com/file/d/1T0pGJXwIW-rmJBJrMUuVRbyHgyrjqsw5/view?usp=sharing)
