@@ -6,6 +6,6 @@ The races are fast paced, often close, and have frequent lead changes. You can e
 For the future I want to allow the user to place different kinds of bets on the horses and get paid out accordingly. 
 
 
-![horse racing image](https://github.com/jrobinson123/Westminster-Downs/blob/master/images/horseRaceShot.png)
+![horse racing image](https://github.com/jrobinson123/Westminster-Downs/blob/master/images/horseRaceShot.png?raw=true "Title")
 
 This is the image
