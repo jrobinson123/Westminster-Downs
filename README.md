@@ -8,4 +8,4 @@ For the future I want to allow the user to place different kinds of bets on the 
 
 ![horse racing image](./images/horseRaceShot.png)
 
-This is the image
+
